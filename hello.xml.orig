@@ -2,16 +2,21 @@
 <note>
 <<<<<<< HEAD
 <<<<<<< HEAD
-  <to>sutton</to>
+  <to>sutton braddy</to>
   <from>James</from>
-  <heading>Vikky</heading>
+  <heading>Vikky howard</heading>
   <body>Don't forget me this weekday!</body>
 =======
-  <to>Tove</to>
+<<<<<<< HEAD
+  <to>Tove1510</to>
   <from>Jani</from>
 =======
-  <to>Tove111</to>
-  <from>000Jani</from>
+  <to>Tovino tom</to>
+  <from>Janani</from>
+>>>>>>> work
+=======
+  <to>Tove11122</to>
+  <from>000Janieee</from>
 >>>>>>> new
   <heading>Reminder</heading>
   <body>Don't forget me this weekend!</body>
